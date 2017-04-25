@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Person Content Type and Taxonomies feature.
+ */
+
+include_once 'person_content_type_and_taxonomies.features.inc';
